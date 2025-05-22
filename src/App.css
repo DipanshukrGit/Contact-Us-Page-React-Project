@@ -1,0 +1,39 @@
+/* Import Poppins font from Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100..900;1,100..900&display=swap");
+
+/* CSS Variables - Add custom properties here if needed */
+:root {
+  --primary-color: #1d4ed8; /* Example color */
+  --text-color: #333;
+  --background-color: #f9f9f9;
+}
+
+/* Reset basic styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Base styles */
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+/* Utility container */
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Main layout container */
+.main_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+ 
+}
