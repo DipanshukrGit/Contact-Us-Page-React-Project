@@ -1,12 +1,55 @@
-# React + Vite
+# 📞 Contact Us Page – React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Short Description
 
-Currently, two official plugins are available:
+A responsive and interactive **Contact Us** page built with **React JS** and **JavaScript**, featuring a support form that dynamically displays user input without reloading the page.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🖥️ Project Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This is my **second React project**, focused on creating a practical "Contact Us" page to sharpen my front-end development skills using **React** and **JavaScript**.
+
+---
+
+## 🔧 Features
+
+- 📞 Buttons for **Support Chat** and **Call**
+- 📧 Email form with:
+  - Name input
+  - Email input
+  - Message input
+- 🖱️ On submit, the form data appears **dynamically below the form** using **React state** (no page reload)
+- ❗ Currently not responsive — **mobile version coming soon!**
+
+---
+
+## 🧠 Key Learnings
+
+- ✅ Controlled input fields and form handling in React
+- ✅ Real-time data display using **state management**
+- ✅ Improved component structure and code clarity
+- ✅ Enhanced understanding of form UX/UI best practices
+
+---
+
+## 🛠️ Tech Stack
+
+- **React JS**
+- **JavaScript**
+- **HTML**
+- **CSS**
+
+---
+
+## 📱 Next Steps
+
+- Make the layout **fully responsive** for mobile and tablet
+- Add basic **form validation**
+- Improve **styling** for better user experience
+
+---
+
+Feel free to clone, fork, or suggest improvements!
+
+> “Every project makes me better — onto the next one!” 🚀
